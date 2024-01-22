@@ -92,3 +92,21 @@ export const studentRows = [
     last_name: 'Ramos',
   },
 ];
+
+export const foodItems = [
+  {
+    id: 1,
+    name: 'item 1',
+    price: 151,
+  },
+  {
+    id: 2,
+    name: 'item 2',
+    price: 121,
+  },
+  {
+    id: 3,
+    name: 'item 3',
+    price: 251,
+  },
+];
